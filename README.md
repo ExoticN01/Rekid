@@ -17,7 +17,7 @@ HttpGet, GetObjects, checkcaller, getrawmetatable, getnamecallmethod, MouseLib, 
 No.
 ## Do it a Virus?
 No, this is not a virus.
-### VirusTotal:
+VirusTotal:
 (DLL)
 (UI)
 ## How Long the Update Take?
