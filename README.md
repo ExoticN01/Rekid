@@ -8,29 +8,29 @@ It Support Windows 7 and 32 bits System (Not Sure).
 
 ## Credits
 
-## FAQ
-# Do this Exploit work?
+# FAQ
+## Do this Exploit work?
 Yes, it work unless i want to stop.
-# What Function It support?
+## What Function It support?
 HttpGet, GetObjects, checkcaller, getnamecallmethod, MouseLib, Drawing Lib(Soon).
-# Do it have key System?
+## Do it have key System?
 No.
-# Do it a Virus?
+## Do it a Virus?
 No, this is not a virus.
-#VirusTotal:
+### VirusTotal:
 (DLL)
 (UI)
-# How Long the Update Take?
+## How Long the Update Take?
 This Exploit is Auto-Updating. 
-# Does it Support Dex?
+## Does it Support Dex?
 Yes, Dex v2 work but haven't tested all dex version.
-# Does it have Anti-Ban
+## Does it have Anti-Ban
 Yes, It will destroy your logs if you crash and wont Upload it.
 
-## Fix
-#Injecting Issue
+# Fix
+##Injecting Issue
 ...
-# UI Issue
+## UI Issue
 ...
 
 # Contact
