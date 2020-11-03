@@ -3,7 +3,7 @@
 # About
 This is a Roblox Exploit using ByteCode Conversion For Execution. 
 The Execution is Pretty fast. 
-It alos Have Auto-Update so you need to wait For Update when Roblox Do.
+It also Have Auto-Update so you dont need to wait For an Update when Roblox Do.
 It Support Windows 7 and 32 bits System (Not Sure).
 
 # Credits
@@ -12,7 +12,7 @@ It Support Windows 7 and 32 bits System (Not Sure).
 ## Do this Exploit work?
 Yes, it work unless i want to stop.
 ## What Function It support?
-HttpGet, GetObjects, checkcaller, getnamecallmethod, MouseLib, Drawing Lib(Soon).
+HttpGet, GetObjects, checkcaller, getrawmetatable, getnamecallmethod, MouseLib, Drawing Lib(Soon).
 ## Do it have key System?
 No.
 ## Do it a Virus?
