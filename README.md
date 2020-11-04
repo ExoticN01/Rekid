@@ -18,8 +18,10 @@ No.
 #### Do it a Virus?
 No, this is not a virus.
 VirusTotal:
-(DLL)
-(UI)
+
+(UI): https://www.virustotal.com/gui/file/6f85ca64871d114fc6507ea8f0157eb133777c075d8e6fc0fc771d1dd8916299/detection
+
+(DLL) https://www.virustotal.com/gui/file/3bb5ba7fc2f3ca05184cbc1232a64465adc1af32eb7dafe5e280f7f2d4f2bb7e/detection
 #### How Long the Update Take?
 This Exploit is Auto-Updating. 
 #### Does it Support Dex?
