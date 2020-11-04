@@ -36,4 +36,4 @@ Yes, It will destroy your logs if you crash and wont Upload it.
 # Contact
 Discord: ExoticN01#5600
 
-Website: http://www.rekidx.ga/
+Website: ...
