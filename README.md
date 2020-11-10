@@ -1,31 +1,29 @@
-## Rekid Exploit
+## RektSploit
 
 # About
 This is a Roblox Exploit using ByteCode Conversion For Execution. 
-The Execution is Pretty fast. 
-It also Have Auto-Update so you dont need to wait For an Update when Roblox Do.
-It Support Windows 7 and 32 bits System (Not Sure).
+It not Released yet but it still in devlopping. It also Have Auto-Update so you dont need to wait For an Update when Roblox Do. It Support Windows 7 and 32 bits System. I expect a release in February 2020 but not sure about that. This have a lot of function and i will add more with time.
 
 # Credits
 
 # FAQ
-#### Do this Exploit work?
-Yes, it work unless i want to stop.
+#### Why i do this?
+Because it difficult to found a good exploit without key system and i wanted to make my own and give for free to people who can discover exploiting in a game what it look like.
+#### Do this is axon?
+No this is not axon, Axon use a method called Wrapping and mine use ByTeCode Conversiom(Lua Bytecode to Roblox one).
 #### What Function It support?
-HttpGet, GetObjects, checkcaller, getrawmetatable, getnamecallmethod, MouseLib, Drawing Lib(Soon).
+WriteFile, ReadFile, loadstring, setclipboard, getclipboard, HttpGet, GetObjects, checkcaller, getrawmetatable, setrawmetatable, FireclickDetector, getrenv, getgenv, getreg, MouseLib, setreadonly, make_writeable, make_readonly, isreadonly, Encrypt, Decrypt, HookFunc(Soon), Drawing Lib(Soon).
 #### Do it have key System?
-No.
+No because key System is trash.
 #### Do it a Virus?
-No, this is not a virus.
+No, This is totaly safe to use.
 VirusTotal:
 
 (UI): https://www.virustotal.com/gui/file/6f85ca64871d114fc6507ea8f0157eb133777c075d8e6fc0fc771d1dd8916299/detection
 
 (DLL) https://www.virustotal.com/gui/file/3bb5ba7fc2f3ca05184cbc1232a64465adc1af32eb7dafe5e280f7f2d4f2bb7e/detection
 #### How Long the Update Take?
-This Exploit is Auto-Updating. 
-#### Does it Support Dex?
-Yes, Dex v2 work but haven't tested all dex version.
+This Exploit is Auto-Updating or take 1 to 12 hours.
 #### Does it have Anti-Ban
 Yes, It will destroy your logs if you crash and wont Upload it.
 
@@ -36,6 +34,6 @@ Yes, It will destroy your logs if you crash and wont Upload it.
 ...
 
 # Contact
-Discord: ExoticN01#5600
+Discord: ...
 
 Website: ...
