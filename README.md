@@ -13,6 +13,8 @@ It not Released yet but it still in devlopping. It also Have Auto-Update so you 
 
 # Status
 - Devlopping...
+UI - Finished
+DLL - not finish
 
 # Credits
 
