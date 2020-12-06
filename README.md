@@ -2,7 +2,8 @@
 
 # About
 This is a Roblox Exploit using ByteCode Conversion For Execution. 
-It not Released yet but it still in devlopping. It also Have Auto-Update so you dont need to wait For an Update when Roblox Do.
+It not Released yet but it still in devlopping. 
+It also Have Auto-Update so you dont need to wait For an Update when Roblox Do.
 I expect a release in February 2020 but not sure about that. 
 This have a lot of function and i will add more with time.
 
@@ -16,7 +17,7 @@ This have a lot of function and i will add more with time.
 # Status
 - Devlopping...
 
-- UI - ✔
+- UI - ✘
 
 - DLL - ✘
 
@@ -28,7 +29,36 @@ This have a lot of function and i will add more with time.
 #### Do it support Windows 7?
 - Idk, i didn't tested.
 #### What Custom Function It support?
-WriteFile, ReadFile, appendfile, isfile, isfolder, loadstring, toclipboard, getclipboard, HttpGet, GetObjects, checkcaller, getrawmetatable, setrawmetatable, FireclickDetector, getrenv, getgenv, getreg, MouseLib, setreadonly, make_writeable, make_readonly, isreadonly, Encrypt, Decrypt, HookFunction, getnamecallmethod, setnamecallmethod,Drawing Lib(Soon).
+WriteFile, 
+ReadFile, 
+appendfile, 
+isfile, 
+isfolder, 
+loadstring, 
+toclipboard, 
+getclipboard, 
+HttpGet, 
+GetObjects, 
+checkcaller, 
+REKTSPLOIT_LOADED, 
+getrawmetatable, 
+setrawmetatable, 
+FireclickDetector, 
+getrenv, 
+getgenv, 
+getreg, 
+setreadonly, 
+make_writeable, 
+make_readonly, 
+isreadonly, 
+Encrypt, 
+Decrypt, 
+HookFunction, 
+getnamecallmethod, 
+setnamecallmethod, 
+MouseLib, 
+Drawing Lib(Soon).
+
 #### Do it have key System?
 - No because key System is trash.
 #### Do it a Virus?
