@@ -6,10 +6,10 @@ It not Released yet but it still in devlopping. It also Have Auto-Update so you 
 
 ## Updates
 
-## Release
+# Release
 - February - June 2020
 
-## Status
+# Status
 - Devlopping...
 
 # Credits
