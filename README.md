@@ -4,7 +4,9 @@
 This is a Roblox Exploit using ByteCode Conversion For Execution. 
 It not Released yet but it still in devlopping. It also Have Auto-Update so you dont need to wait For an Update when Roblox Do I expect a release in February 2020 but not sure about that. This have a lot of function and i will add more with time.
 
-## Updates
+# Updates
+- Fixed Injecting Issue
+- Fixed HttpGet
 
 # Release
 - February - June 2020
@@ -42,6 +44,6 @@ VirusTotal:
 ...
 
 # Contact
-Discord: 
+Discord: MemoryScanner#5600
 
 Website: ...
