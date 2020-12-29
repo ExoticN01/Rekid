@@ -26,9 +26,9 @@ This have a lot of function and i will add more with time.
 # Status
 - Devlopping...
 
-- UI -> 80%
+- UI -> 50%
 
-- DLL -> 50%
+- DLL -> 80%
 
 # Credits
 
