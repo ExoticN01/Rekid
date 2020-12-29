@@ -8,8 +8,8 @@ I expect a release in February 2020 but not sure about that.
 This have a lot of function and i will add more with time.
 
 # Updates
-- Fixed Big Injecting Issues
-- Updated Auto-Updating
+- Optimized Auto-Updating
+- 
 
 # Release
 - February - June 2021
@@ -56,6 +56,8 @@ Decrypt,
 HookFunction, 
 getnamecallmethod, 
 setnamecallmethod, 
+sethiddenproperty, 
+gethiddenproperty, 
 MouseLib, 
 Drawing Lib(Soon).
 
