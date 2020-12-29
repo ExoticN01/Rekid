@@ -44,7 +44,7 @@ This have a lot of function and i will add more with time.
 - appendfile
 - isfile
 - isfolder
-##### File
+##### Script
 - loadstring
 - HttpGet
 - GetObjects
