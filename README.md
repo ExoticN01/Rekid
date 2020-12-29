@@ -10,14 +10,14 @@ This have a lot of function and i will add more with time.
 # Credits
 
 # Updates
-#### DLL
+### DLL
 - Optimized Auto-Updating
 - Fixed getgenv
 - Added More Error Handling
 - Added Directory Checker
 - Faster Injection
 - Fixed Many Bugs
-#### UI
+### UI
 - Fixing Injection Crash
 
 # Release
