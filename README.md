@@ -39,8 +39,8 @@ This have a lot of function and i will add more with time.
 - Idk, i didn't tested.
 #### What Custom Function It support?
 ##### File
-- WriteFile
-- ReadFile
+- writefile
+- readfile
 - appendfile
 - isfile
 - isfolder
@@ -62,7 +62,7 @@ This have a lot of function and i will add more with time.
 - make_readonly
 - isreadonly
 ##### Closure
-- HookFunction
+- hookfunction
 - iscclosure
 - islclosure
 ##### Console
@@ -95,10 +95,9 @@ This have a lot of function and i will add more with time.
 #### Do this is a Virus?
 - No, This is totally safe to use.
 VirusTotal:
+- (UI): https://www.virustotal.com/gui/file/6f85ca64871d114fc6507ea8f0157eb133777c075d8e6fc0fc771d1dd8916299/detection
+- (DLL) https://www.virustotal.com/gui/file/3bb5ba7fc2f3ca05184cbc1232a64465adc1af32eb7dafe5e280f7f2d4f2bb7e/detection
 
-(UI): https://www.virustotal.com/gui/file/6f85ca64871d114fc6507ea8f0157eb133777c075d8e6fc0fc771d1dd8916299/detection
-
-(DLL) https://www.virustotal.com/gui/file/3bb5ba7fc2f3ca05184cbc1232a64465adc1af32eb7dafe5e280f7f2d4f2bb7e/detection
 #### How Long the Update Take?
 - This Exploit is Auto-Updating (5 sec) or take 1 to 12 hours.
 #### Does it have Anti-Ban
@@ -112,6 +111,8 @@ VirusTotal:
 #### Execution Issue
 ##### Crashing at Execution 
 - Restart Roblox And The Exploit (Task Manager -> RobloxPlayerBeta.exe -> kill) and Retry. If not working, Report it as a bug.
+##### Crashing When using custom function 
+- Restart Roblox And The Exploit (Task Manager -> RobloxPlayerBeta.exe -> kill) and Retry or, wait for the dev to update it. If not working, Report it as a bug.
 
 # Contact
 Discord: Error 404#5600
