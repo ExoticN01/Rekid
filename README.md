@@ -51,9 +51,6 @@ This have a lot of function and i will add more with time.
 ##### Clipboard
 - toclipboard
 - getclipboard
-##### File
-- checkcaller
-- REKTSPLOIT_LOADED
 ##### Table
 - getrawmetatable
 - setrawmetatable
@@ -74,6 +71,8 @@ This have a lot of function and i will add more with time.
 ##### Environment
 - getgenv
 - getreg
+- checkcaller
+- REKTSPLOIT_LOADED
 ##### Encryption
 - Encrypt
 - Decrypt
