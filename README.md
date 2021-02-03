@@ -65,7 +65,7 @@ After, it get it from the file and run it to make the exploit working.
 
 # Documentation
 #### File
-- <void> writefile(<string> Message, <string> Path)
+- <void> writefile(<<string>> Message, <string> Path)
 - <void> appendfile(<string> Message, <string> Path)
 - <string> readfile(<string> Path)
 - <bool> isfile(<string> Path)
