@@ -60,70 +60,70 @@ After, it get it from the file and run it to make the exploit working.
 - February - June 2021
 
 # Status
-- UI -> 80%
-- DLL -> 95%
+- UI -] 80%
+- DLL -] 95%
 
 # Documentation
 #### File
-- <void> writefile(<<string>> Message, <string> Path)
-- <void> appendfile(<string> Message, <string> Path)
-- <string> readfile(<string> Path)
-- <bool> isfile(<string> Path)
-- <bool> isfolder(<string> Path)
+- [void] writefile([string] Message, [string] Path)
+- [void] appendfile([string] Message, [string] Path)
+- [string] readfile([string] Path)
+- [bool] isfile([string] Path)
+- [bool] isfolder([string] Path)
 #### Script
-- <void> loadstring(<string> Script, <string> chunkname)
-- <string> HttpGet(<string> Url)
-- <Asset> GetObjects(<string> AssetID)
+- [void] loadstring([string] Script, [string] chunkname)
+- [string] HttpGet([string] Url)
+- [Asset] GetObjects([string] AssetID)
 #### Clipboard
-- <void> toclipboard(<string> Message)
-- <string> getclipboard()
+- [void] toclipboard([string] Message)
+- [string] getclipboard()
 #### Table
-- <table> getrawmetatable(<Object> Object)
-- <void> setrawmetatable(<Object> Object, <Table> Table)
-- <void> setreadonly(<table> Table, <bool> ReadOnly)
-- <bool> isreadonly(<table> Table)
-- <void> make_writeable(<table> Table)
-- <void> make_readonly(<table> Table)
+- [table] getrawmetatable([Object] Object)
+- [void] setrawmetatable([Object] Object, [Table] Table)
+- [void] setreadonly([table] Table, [bool] ReadOnly)
+- [bool] isreadonly([table] Table)
+- [void] make_writeable([table] Table)
+- [void] make_readonly([table] Table)
 #### Closure
-- <void> hookfunction(<Void> HookedFunction, <Void> ReplaceFunction)
-- <bool> iscclosure(<Void> Function)
-- <bool> islclosure(<Void> Function)
+- [void] hookfunction([void] HookedFunction, [void] ReplaceFunction)
+- [bool] iscclosure([void] Function)
+- [bool] islclosure([void] Function)
 #### Console
-- <void> createconsole(<string> Title)
-- <void> closeconsole()
-- <void> printconsole(<string> Message)
+- [void] createconsole([string] Title)
+- [void] closeconsole()
+- [void] printconsole([string] Message)
 #### Signal
-- <void> fireclickdetector(<ClickDetector> Detector)
+- [void] fireclickdetector([ClickDetector] Detector)
 #### Environment
-- <void> getgenv()
-- <table> getreg()
-- <table> getrenv()
-- <bool> checkcaller()
-- <bool> REKTSPLOIT_LOADED
-- <table> getgc()
+- [void] getgenv()
+- [table] getreg()
+- [table] getrenv()
+- [bool] checkcaller()
+- [bool] REKTSPLOIT_LOADED
+- [table] getgc()
 #### Encryption
-- <string> Encrypt(<string> Message, <string> Key)
-- <string> Decrypt(<string> Message, <string> Key)
+- [string] Encrypt([string] Message, [string] Key)
+- [string] Decrypt([string] Message, [string] Key)
 #### Namecall
-- <string> getnamecallmethod()
-- <void> setnamecallmethod(<string> NameCall)
+- [string] getnamecallmethod()
+- [void] setnamecallmethod([string] NameCall)
 #### Random
-- <string> randomstring(<int> Lenght)
-- <int> randomint(<int> MaxValue)
+- [string] randomstring([int] Lenght)
+- [int] randomint([int] MaxValue)
 #### Flag
-- <string> getfflag(<string> Flag)
-- <string> setfflag(<string> Flag, <string> Value)
+- [string] getfflag([string] Flag)
+- [string] setfflag([string] Flag, [string] Value)
 #### Property
-- <void> setscriptable(<Instance> Object, <string> Property, <bool> IsScriptable)
-- <bool> ishiddenproperty(<Instance> Object, <string> Property)
-- <void> sethiddenproperty(<Instance> Object, <string> Property, <global> Value)
-- <object> gethiddenproperty(<Instance> Object, <string> Property)
-- <void> setsimulationradius(<int> SimulationRadius, <int> MaxSimulationRadius)
+- [void] setscriptable([Instance] Object, [string] Property, [bool] IsScriptable)
+- [bool] ishiddenproperty([Instance] Object, [string] Property)
+- [void] sethiddenproperty([Instance] Object, [string] Property, [global] Value)
+- [object] gethiddenproperty([Instance] Object, [string] Property)
+- [void] setsimulationradius([int] SimulationRadius, [int] MaxSimulationRadius)
 #### Identity
-- <int> getthreadidentity()
-- <void> setthreadidentity(<int> Level)
+- [int] getthreadidentity()
+- [void] setthreadidentity([int] Level)
 #### Others
-- <int> messagebox(<string> Caption, <string> Text, <int> Button)
+- [int] messagebox([string] Caption, [string] Text, [int] Button)
 #### Lib
 - MouseLib
 #### Upcoming
@@ -158,9 +158,9 @@ VirusTotal:
 - Probably the server is offline or the host. If persist, redownload it. If not working, Report it as a bug.
 #### Execution Issue
 ##### Crashing at Execution 
-- Restart Roblox And The Exploit (Task Manager -> RobloxPlayerBeta.exe -> kill) and Retry. If not working, Report it as a bug.
+- Restart Roblox And The Exploit (Task Manager -] RobloxPlayerBeta.exe -] kill) and Retry. If not working, Report it as a bug.
 ##### Crashing When using custom function 
-- Restart Roblox And The Exploit (Task Manager -> RobloxPlayerBeta.exe -> kill) and Retry or, wait for the dev to update it. If not working, Report it as a bug.
+- Restart Roblox And The Exploit (Task Manager -] RobloxPlayerBeta.exe -] kill) and Retry or, wait for the dev to update it. If not working, Report it as a bug.
 
 # Contact
 Discord: Error 404#5600
