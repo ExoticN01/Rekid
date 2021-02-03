@@ -165,6 +165,6 @@ VirusTotal:
 # Contact
 Discord: Error 404#5600
 
-Discord Server: https://discord.com/invite/SxpW8JjHBm
+Discord Server: https://discord.gg/9dpxJ9ZUjy
 
 Website: ...
